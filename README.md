@@ -1,1 +1,1 @@
-"# formular-validace-regex" 
+# formular-validace-regex
